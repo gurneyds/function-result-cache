@@ -12,3 +12,8 @@ There are 4 different implementations are provided:
 
 
 Unit test are only provided for #3 and #4 above, but could easily be provided for the others as well.
+
+
+To run the test:
+    npm install
+    npm test
