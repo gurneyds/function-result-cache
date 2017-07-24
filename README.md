@@ -15,5 +15,7 @@ Unit test are only provided for #3 and #4 above, but could easily be provided fo
 
 
 To run the test:
+
     npm install
+
     npm test
