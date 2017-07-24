@@ -1,0 +1,16 @@
+{
+  "name": "function_cache",
+  "version": "1.0.0",
+  "description": "Wrapper on a function to cache a result",
+  "main": "cacheable.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "David Gurney",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2",
+    "sleep": "^5.1.1"
+  }
+}
